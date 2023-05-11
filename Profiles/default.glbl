@@ -4,4 +4,59 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://stage.mobipaid.com/en/register'</initValue>
+      <name>website</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Wahyu'</initValue>
+      <name>firtsName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Priyonoo'</initValue>
+      <name>lastName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'wahyupriyonoo@gmail.com'</initValue>
+      <name>emailValid</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>without '@'</description>
+      <initValue>'wahyupriyonoogmail.com'</initValue>
+      <name>Email_not_valid1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>without '.'</description>
+      <initValue>'wahyupriyonoo@gmail.com'</initValue>
+      <name>Email_not_valid2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'@Qwerty123'</initValue>
+      <name>passwordValid</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'123'</initValue>
+      <name>passwordInvalid</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'bvk'</initValue>
+      <name>companyName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'8131006548'</initValue>
+      <name>phoneNumber_Valid</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'813'</initValue>
+      <name>phoneNumber_Invalid</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
