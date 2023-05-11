@@ -25,7 +25,5 @@ WebUI.navigateToUrl(GlobalVariable.website)
 
 WebUI.click(findTestObject('Register_repo/Page_Register/button_NextStep'))
 
-WebUI.setAlertText('Please fill out this field.')
-
 WebUI.closeBrowser()
 
